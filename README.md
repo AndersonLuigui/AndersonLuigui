@@ -27,14 +27,18 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 ## 📊 Stats
 
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLuigui&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersonLuigui&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuigui&layout=compact&theme=radical)
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLuigui&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuigui&layout=compact&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/andersonluigui](https://linkedin.com/in/andersonluigui)
 - Email: alns1536@hotmail.com
-- Whatsapp: 61 998138424
+- WhatsApp: (61) 99813-8424
 
 ⭐ Obrigado por visitar! Deixe uma star nos projetos se curtir.
