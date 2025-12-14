@@ -6,6 +6,8 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 🚀 Em busca da primeira vaga como Dev Júnior – focado em aprender e contribuir!
 
+![Snake animation](/AndersonLuigui/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Tecnologias e Stacks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,8 +35,6 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLuigui&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuigui&layout=compact&theme=tokyonight)
-
-![Snake animation](/AndersonLuigui/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
