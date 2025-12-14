@@ -2,9 +2,9 @@
 
 Desenvolvedor em transição para Fullstack/Backend, com experiência em análise de APIs REST, troubleshooting em ambientes financeiros e projetos pessoais.
 
-Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly, resolvendo incidentes críticos e colaborando com squads de desenvolvimento.
+Atualmente atuando como Analista de Observabilidade na 2TD, atuando nos projetos Esfera Santander e Bankly, resolvendo incidentes críticos e colaborando com squads de desenvolvimento.
 
-🚀 Em busca da primeira vaga como Dev Júnior – focado em aprender e contribuir!
+🚀 Em busca da primeira vaga como Dev!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake-dark.svg" />
