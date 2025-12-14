@@ -6,7 +6,10 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 🚀 Em busca da primeira vaga como Dev Júnior – focado em aprender e contribuir!
 
-![Snake animation](/AndersonLuigui/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🛠️ Tecnologias e Stacks
 
