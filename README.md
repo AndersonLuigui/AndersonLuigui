@@ -13,8 +13,6 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 ## 🛠️ Tecnologias e Stacks
 
-## 🛠️ Tecnologias e Stacks
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
