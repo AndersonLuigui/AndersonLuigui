@@ -20,10 +20,11 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 ## 📌 Projetos em Destaque
 
+- [Auth API](https://github.com/AndersonLuigui/auth-api) – API de autenticação com Java Spring Boot
 - [Conversor de Vídeos](https://github.com/AndersonLuigui/ConversorAL) – Node.js + FFmpeg (processamento assíncrono)
 - [Curious English World](https://github.com/AndersonLuigui/curiousenglishworld) – Plataforma educacional com áudios e textos (JS Vanilla)
 - [Marine Go Bsb](https://github.com/AndersonLuigui/marine) – Site de aluguel de lanchas (HTML, CSS, JS, Bootstrap)
-- [Auth API](https://github.com/AndersonLuigui/auth-api) – API de autenticação com Spring Boot / Node.js
+
 
 ## 📊 Stats
 
