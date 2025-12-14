@@ -34,7 +34,7 @@ Atualmente atuando como Analista de Observabilidade na Esfera Santander e Bankly
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuigui&layout=compact&theme=tokyonight)
 
-![Snake animation](https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake.svg)
+![Snake animation](/AndersonLuigui/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
