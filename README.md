@@ -4,8 +4,6 @@ Desenvolvedor em transição para Fullstack/Backend, com experiência em anális
 
 Atualmente atuando como Analista de Observabilidade na 2TD, atuando nos projetos Esfera Santander e Bankly, resolvendo incidentes críticos e colaborando com squads de desenvolvimento.
 
-🚀 Em busca da primeira vaga como Dev!
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AndersonLuigui/AndersonLuigui/output/github-contribution-grid-snake.svg" />
